@@ -118,14 +118,7 @@ python colab_detect.py
 
 ---
 
-## 👤 Author
 
-**Mukarma Rehman**
-
-- GitHub: [mukarma1](https://github.com/mukarma1)
-- LinkedIn: [Mukarma Rehman](https://www.linkedin.com/in/mukarma-rehman-7b4571419/)
-
----
 
 ## 📜 License
 
